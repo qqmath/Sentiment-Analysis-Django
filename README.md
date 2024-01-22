@@ -1,4 +1,4 @@
-# README for Sentiment Analysis Web App Using Flask and Django
+# Sentiment Analysis Web App Using Flask and Django
 
 ## Project Overview
 This project is a Sentiment Analysis Web Application built using Flask and Django frameworks. The core functionality revolves around analyzing tweets to determine their sentiment (positive, neutral, or negative) based on a logistic regression model trained on tweet data.
@@ -49,12 +49,5 @@ This project is a Sentiment Analysis Web Application built using Flask and Djang
 - The sentiment analysis is currently limited to English language tweets.
 - The logistic regression model might not capture the nuances of complex sentences or slang.
 
-## License
-- Specify your licensing details here.
-
-## Contributions
-- We welcome contributions to improve the application, such as adding support for more languages or enhancing the prediction model. Please feel free to reach out or submit a pull request on GitHub.
-
----
-
-This README is a comprehensive guide to the Sentiment Analysis Web Application project, covering its features, setup, and usage. It's a unique blend of Flask's simplicity and Django's robustness, offering a seamless way to analyze tweet sentiments.
+## Thank you
+- Pianalytix for creating their Data Science Bundle course.
